@@ -13,3 +13,5 @@ I visualized approximately 160 years of data according to their average, minimum
 ### Change in temperature values
 I visualized the change in temperature values ​​in each season between 1750 and 2015. There seems to be an obvious uplift.
 ![alt text](img/C3.PNG)
+### Contributing
+We welcome contributions! If you have additional project management templates or improvements, feel free to submit a pull request.
